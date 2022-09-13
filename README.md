@@ -4,7 +4,7 @@
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+Fully Responsive Modern UI/UX Website in React JS. 
 
 Alongside building the website, I have learned:
 
